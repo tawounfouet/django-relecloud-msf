@@ -8,3 +8,4 @@ __pycache__/
 *.egg
 guide-django-azureApp.md
 
+.vscode/
