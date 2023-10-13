@@ -1,0 +1,10 @@
+venv
+*.pyc
+#db.sqlite3
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+guide-django-azureApp.md
+
